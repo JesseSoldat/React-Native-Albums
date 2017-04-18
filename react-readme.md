@@ -7,4 +7,8 @@ Open up a second terminal window in the project directory and run 'npm run start
 3 - react-native run-android
 
 
-ctrl + n  dev menu
+Debugging
+-----------------------------------------------------
+1 - Ctrl + M to open up some "developer menu"
+2 - click on enable remote JS debugging
+3 - Depending on your react native version, chrome may or may not open up the debugging tab. But in any case, go to localhost:8081/debugger-ui should do it.
